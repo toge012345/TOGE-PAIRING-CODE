@@ -1,9 +1,9 @@
 {
-    "name": "GEEK Pairing",
-    "description": "FLASH-MD WA bot, Created by France King",
-    "logo": "https://telegra.ph/file/5cd90362ad7c6cbb60069.jpg",
-    "repository": "https://github.com/ibrahimaitech/Flash-Md-Session11/tree/main",
-    "keywords": ["FlashMd"],
+    "name": "𝚃𝙾𝙶𝙴 𝙿𝙰𝙸𝚁𝙸𝙽𝙶",
+    "description": "𝚃𝙾𝙶𝙴 𝙿𝙰𝙸𝚁𝙸𝙽𝙶 WA bot, Created by toge012345",
+    "logo": "https://telegra.ph/file/e67b92fd87d8360c9de73.jpg",
+    "repository": "https://github.com/toge012345/TOGE-PAIRING-CODE",
+    "keywords": ["TOGE-MD"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
