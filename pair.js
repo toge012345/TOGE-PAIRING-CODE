@@ -54,7 +54,7 @@ router.get('/', async (req, res) => {
                 let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
                 await delay(800);
                let b64data = Buffer.from(data).toString('base64');
-               let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: 'GEEK-MD-WHATSAPP-BOT;;;' + b64data });
+               let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: 'TOGE-MD-WHATSAPP-BOT;;;' + b64data });
 
                let FLASH_MD_TEXT = `
 *𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀*
@@ -75,7 +75,7 @@ ____________________________________
 
 ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaYtF0Z2975CYz9Fmv2k
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaYtF0Z2975CYz9Fmv2k_
 
 ║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/lawliet.kfx_
 
@@ -84,7 +84,7 @@ ____________________________________
  *𝙏𝙊𝙂𝙀-𝙈𝘿*
 ___________________________________
 
-Don't Forget To Give Star⭐ To My Repo_`
+*_Don't Forget To Give Star⭐ To My Repo_*`
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
 
