@@ -58,30 +58,30 @@ router.get('/', async (req, res) => {
 
                let FLASH_MD_TEXT = `
 *𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀*
-*𝐆𝐄𝐄𝐊 𝙏𝙀𝘾𝙃*
-*𝙊𝙒𝙉𝙀𝙍 𝐌𝐑_𝐋𝐄𝐆𝐄𝐄𝐊*
+*•.¸♡ TOGE INUMAKI ♡¸.•*
+*𝙊𝙒𝙉𝙀𝙍 ╰┈➤ ❝ [𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸] ❞*
 ____________________________________
 ╔════◇
-║『 𝐌𝐫_𝐋𝐄𝐆𝐄𝐄𝐊 𝘼𝙄 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
+║『 ╰┈➤ ❝ [𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸] ❞ 𝘼𝙄 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
 ║ OK YOUR SESSION IS READY COPY IT  
 ║ AND HOST IT ON HEROKU.
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
 ║
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _237698046545_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _13038480418_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/toge012345_
 
-║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo_
+║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaYtF0Z2975CYz9Fmv2k
 
-║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/Ruben_De_Jean_
+║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/lawliet.kfx_
 
 ║ 
 ╚════════════════════╝ 
- *©𝐆𝐄𝐄𝐊 𝗧𝗘𝗖𝗛*
+ *𝙏𝙊𝙂𝙀-𝙈𝘿*
 ___________________________________
 
 Don't Forget To Give Star⭐ To My Repo_`
