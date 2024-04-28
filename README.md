@@ -1,4 +1,4 @@
-# 𝙏𝙊𝙂𝙀-𝙈𝘿 𝙋𝘼𝙄𝙍𝙄𝙉𝙂-𝘾𝙊𝘿𝙀 𝘾𝙊𝘿𝙀
+# 𝙏𝙊𝙂𝙀-𝙈𝘿 𝙋𝘼𝙄𝙍𝙄𝙉𝙂-𝘾𝙊𝘿𝙀
 <p align="center">
   <a href="https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo">
     <img alt=Support height="250" src="https://telegra.ph/file/fceb4b6a071ad7ee0dc68.jpg"> 
