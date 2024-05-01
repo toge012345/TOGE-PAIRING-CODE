@@ -54,20 +54,14 @@ router.get('/', async (req, res) => {
                 let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
                 await delay(800);
                let b64data = Buffer.from(data).toString('base64');
-               let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: 'TOGE-MD-WHATSAPP-BOT;;;' + b64data });
+               let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: 'TOGE-MD;;;' + b64data });
 
-               let FLASH_MD_TEXT = `
-*𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀*
-*•.¸♡ TOGE INUMAKI ♡¸.•*
-*𝙊𝙒𝙉𝙀𝙍 ╰┈➤ ❝ [𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸] ❞*
-____________________________________
-╔════◇
-║『 ╰┈➤ ❝ [𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸] ❞ 𝘼𝙄 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
-║ OK YOUR SESSION IS READY COPY IT  
-║ AND HOST IT ON HEROKU.
-╚════════════════════╝
+               let FLASH_MD_TEXT = `*╔══《T̷O̷G̷E̷ ̷M̷D̷》══◇*
+
+║𝐦𝐞𝐫𝐜𝐢 𝐝'𝐚𝐯𝐨𝐢𝐫 𝐜𝐡𝐨𝐢𝐬𝐢 𝐧𝐨𝐭𝐫𝐞 𝐛𝐨𝐭 ║𝐭𝐨𝐮𝐭 𝐥'𝐞𝐪𝐮𝐢𝐩𝐞 𝐯𝐨𝐮𝐬 𝐬𝐨𝐮𝐡𝐚𝐢𝐭𝐞 𝐥𝐚 ║𝐛𝐢𝐞𝐧𝐯𝐞𝐧𝐮𝐞 😁
+╚════════════
 ╔═════◇
-║ 『••• OWNER INFO •••』
+║ *『••• OWNER INFO •••』*
 ║
 ║ ❒ 𝐎𝐰𝐧𝐞𝐫: _13038480418_
 
@@ -81,10 +75,10 @@ ____________________________________
 
 ║ 
 ╚════════════════════╝ 
- *𝙏𝙊𝙂𝙀-𝙈𝘿*
+ *𝐓𝐎𝐆𝐄 𝐌𝐃 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄*
 ___________________________________
 
-*_Don't Forget To Give Star⭐ To My Repo_*`
+*_N'oubliez pas de donner une étoile⭐ à mon dépôt_*`
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
 
